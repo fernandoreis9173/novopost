@@ -1,0 +1,48 @@
+
+.CorpoSobre{
+    width: 100%;
+    height: 600px;
+    display: table;
+    padding: 100px 0; 
+    background-image: url(../../img/fundo2.jpeg) ;
+    background-position: 30% 45%;
+    background-size: cover;
+}
+.Sobreconteudo{
+    display: table;
+    
+}
+
+.SobreTitulo{
+    display: table-cell;
+    margin: 20px;
+    float: left;
+    color: rgb(219, 223, 15);
+    
+}
+
+.SobreTitulo h1{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif   ;
+   font-size: 40px;
+   text-align: center;
+}
+.SobreTitulo p{
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif   ;
+    font-size: large;
+    float: left;
+    margin: 20px;
+}
+.Progess{
+    display: table-cell;
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+    width: 65%;
+    font-size: large;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif   ;
+    font-size: large;
+    color: yellow;
+
+}
